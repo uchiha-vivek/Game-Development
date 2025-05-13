@@ -14,6 +14,8 @@ int main(){
     cout<<student.front()<<endl;
     cout<<student.back()<<endl;
 
+    
+
 
 
     return 0;
